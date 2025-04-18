@@ -16,11 +16,11 @@ This repository contains 35 Python projects designed to help beginners learn pro
 | #   | Project Name                                             | Description                   | Status |
 | --- | -------------------------------------------------------- | ----------------------------- | ------ |
 | 00  | [Crash Course](/0-crash-course)                          | Introduction to Python basics | ✅     |
-| 01  | [Website Checker](/01-website-checker)                   | Check if websites are online  | ❌     |
-| 02  | [Step Counter](/02-step-counter)                         | Track and analyze daily steps | ❌     |
-| 03  | [Text Formatter](/03-text-formatter)                     | Format and manipulate text    | ❌     |
-| 04  | [Character Type Checker](/04-check-char-type)            | Check types of characters     | ❌     |
-| 05  | [Grade Calculator](/05-grade-calculator)                 | Calculate academic grades     | ❌     |
+| 01  | [Website Checker](/01-website-checker)                   | Check if websites are online  | ✅     |
+| 02  | [Step Counter](/02-step-counter)                         | Track and analyze daily steps | ✅     |
+| 03  | [Text Formatter](/03-text-formatter)                     | Format and manipulate text    | ✅     |
+| 04  | [Character Type Checker](/04-check-char-type)            | Check types of characters     | ✅     |
+| 05  | [Grade Calculator](/05-grade-calculator)                 | Calculate academic grades     | ✅     |
 | 06  | [Word Scrambler](/06-word-scrambler)                     | Scramble and unscramble words | ❌     |
 | 07  | [Music Recommender](/07-music-recommender)               | Get music recommendations     | ❌     |
 | 08  | [Random Name Generator](/08-random-name-generator)       | Generate random names         | ❌     |
