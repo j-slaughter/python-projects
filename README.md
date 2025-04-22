@@ -24,9 +24,9 @@ This repository contains 35 Python projects designed to help beginners learn pro
 | 06  | [Word Scrambler](/06-word-scrambler)                     | Scramble and unscramble words | ✅     |
 | 07  | [Music Recommender](/07-music-recommender)               | Get music recommendations     | ✅     |
 | 08  | [Random Name Generator](/08-random-name-generator)       | Generate random names         | ✅     |
-| 09  | [Reverse Name](/09-reverse-name)                         | Reverse strings and names     | ❌     |
-| 10  | [Vowel Counter](/10-vowel-counter)                       | Count vowels in text          | ❌     |
-| 11  | [Coin Flip Game](/11-coin-flip-game)                     | Simple heads or tails game    | ❌     |
+| 09  | [Reverse Name](/09-reverse-name)                         | Reverse strings and names     | ✅     |
+| 10  | [Vowel Counter](/10-vowel-counter)                       | Count vowels in text          | ✅     |
+| 11  | [Coin Flip Game](/11-coin-flip-game)                     | Simple heads or tails game    | ✅     |
 | 12  | [Recipe Generator](/12-recipe-generator)                 | Generate random recipes       | ❌     |
 | 13  | [Color Mixer](/13-color-mixer)                           | Mix and create colors         | ❌     |
 | 14  | [Guess The Word](/14-guess-the-word)                     | Word guessing game            | ❌     |
