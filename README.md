@@ -27,15 +27,15 @@ This repository contains 35 Python projects designed to help beginners learn pro
 | 09  | [Reverse Name](/09-reverse-name)                         | Reverse strings and names     | ✅     |
 | 10  | [Vowel Counter](/10-vowel-counter)                       | Count vowels in text          | ✅     |
 | 11  | [Coin Flip Game](/11-coin-flip-game)                     | Simple heads or tails game    | ✅     |
-| 12  | [Recipe Generator](/12-recipe-generator)                 | Generate random recipes       | ❌     |
-| 13  | [Color Mixer](/13-color-mixer)                           | Mix and create colors         | ❌     |
-| 14  | [Guess The Word](/14-guess-the-word)                     | Word guessing game            | ❌     |
-| 15  | [Guess The Number](/15-guess-the-number)                 | Number guessing game          | ❌     |
-| 16  | [Countdown Timer](/16-countdown-timer)                   | Simple countdown timer        | ❌     |
-| 17  | [Calculator](/17-calculator)                             | Basic arithmetic calculator   | ❌     |
-| 18  | [Related Word Game](/18-related-word-game)               | Word association game         | ❌     |
-| 19  | [Memory Sequence Game](/19-memory-sequence-game)         | Test your memory skills       | ❌     |
-| 20  | [Rock Paper Scissors](/20-rock-paper-scissors)           | Classic game implementation   | ❌     |
+| 12  | [Recipe Generator](/12-recipe-generator)                 | Generate random recipes       | ✅     |
+| 13  | [Color Mixer](/13-color-mixer)                           | Mix and create colors         | ✅     |
+| 14  | [Guess The Word](/14-guess-the-word)                     | Word guessing game            | ✅     |
+| 15  | [Guess The Number](/15-guess-the-number)                 | Number guessing game          | ✅     |
+| 16  | [Countdown Timer](/16-countdown-timer)                   | Simple countdown timer        | ✅     |
+| 17  | [Calculator](/17-calculator)                             | Basic arithmetic calculator   | ✅     |
+| 18  | [Related Word Game](/18-related-word-game)               | Word association game         | ✅     |
+| 19  | [Memory Sequence Game](/19-memory-sequence-game)         | Test your memory skills       | ✅     |
+| 20  | [Rock Paper Scissors](/20-rock-paper-scissors)           | Classic game implementation   | ✅     |
 | 21  | [Task Manager](/21-task-manager)                         | Manage your daily tasks       | ❌     |
 | 22  | [Simple Chat Bot](/22-simple-chat-bot)                   | Basic conversational bot      | ❌     |
 | 23  | [Word Counter](/23-word-counter)                         | Count words in text           | ❌     |
